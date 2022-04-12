@@ -8,19 +8,20 @@
 
 - 🔭 I’m currently working on **[Ilerah Health](https://ilerah.com/)**
 
+- 👨‍💻 I enjoy exploring algorithms,design patterns,solid principles and scalable system design. You can find my write-ups **[here](https://www.linkedin.com/in/ayuba-dauda/)**  
+
 - 👯 I’m an advocate of **extreme ownership**, and i love being part of the entire **SDLC**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
-
-- 👨‍💻 Not all of my projects are  available to the public 
+- 👨‍💻 I'm constantly building my problem solving skills, i love to talk about algorithms,design patterns,solid principles scalable system design, some are on my 
 
 - 📫 How to reach me **mailtoayuba@gmail.com**
 
-- ⚡ Fun fact **I Broke my hand some years ago, it was the greatest physical pain ever.**
+- ⚡ Fun fact **I use to detest testing like many other engineers, now i'm an advocate of** ***TDD*** 😎
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
      <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a>
@@ -36,7 +37,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/48/000000/php.png"/> </a>
