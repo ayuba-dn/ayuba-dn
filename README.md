@@ -12,7 +12,7 @@
 
 - 👯 I’m an advocate of **extreme ownership**, and i love being part of the entire **SDLC**
 
-- 👨‍💻 I'm constantly building my problem solving skills, i love to talk about algorithms,design patterns,solid principles scalable system design, some are on my 
+- 🍳 I'm constantly building my problem solving skills, I want to solve newer and more intricate challenges
 
 - 📫 How to reach me **mailtoayuba@gmail.com**
 
