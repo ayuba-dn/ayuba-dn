@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ilerah Health](https://ilerah.com/)**
+- 🔭 I’m currently work with **[Kunai](https://kunaico.com/)** on **[Wex](https://wexinc.com/)**
 
 - 👨‍💻 I enjoy exploring algorithms,design patterns,solid principles and scalable system design. You can find my write-ups **[here](https://www.linkedin.com/in/ayuba-dauda/)**  
 
-- 👯 I’m an advocate of **extreme ownership**, and i love being part of the entire **SDLC**
+- 👯 I’m an advocate of **extreme ownership**, and I love being part of the entire **SDLC**
 
 - 🍳 I'm constantly building my problem solving skills, I want to solve newer and more intricate challenges
 
 - 📫 How to reach me **mailtoayuba@gmail.com**
 
-- ⚡ Fun fact; **I use to detest testing like many other engineers, now i'm an advocate of** ***TDD*** 😎
+- ⚡ Randon fact; **I want to build my own startup, but i don't have any worthy startup ideas yet, So I invest my money in Farming and Real Estate😎**
 
 ## 🚀 Languages and Tools:
 
