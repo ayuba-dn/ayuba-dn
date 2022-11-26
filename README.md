@@ -1,4 +1,4 @@
-<a href="#"><img  src="ay.png" height="130px"/></a>
+<a href="#"><img  src="ay.png" height="230px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayuba</h1>
 <h3 align="center">I'm a Software Engineer who is passionate about building distributed and higly scalable and maintainable systems.</h3>
