@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayuba</h1>
-<h3 align="center">I'm a Software Engineer who is passionate about building distributed and higly scalable and maintainable systems.</h3>
+<h3 align="center">I'm a Fullstack Engineer passionate about building distributed and higly scalable and maintainable systems.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ilerah Health](https://ilerah.com/)**
+- 🔭 I’m currently working with **[WEX INC](https://wexinc.com/)**
 
 - 👨‍💻 I enjoy exploring algorithms,design patterns,solid principles and scalable system design. You can find my write-ups **[here](https://www.linkedin.com/in/ayuba-dauda/)**  
 
@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **mailtoayuba@gmail.com**
 
-- ⚡ Fun fact; **I use to detest testing like many other engineers, now i'm an advocate of** ***TDD*** 😎
+- ⚡ Fun fact; **
+I'm good at giving nicknames** ***TDD*** 😎
 
 ## 🚀 Languages and Tools:
 
