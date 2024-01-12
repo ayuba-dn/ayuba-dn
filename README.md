@@ -17,7 +17,7 @@
 - 📫 How to reach me **mailtoayuba@gmail.com**
 
 - ⚡ Fun fact; **
-I'm good at giving nicknames** ***TDD*** 😎
+I'm good at giving ***nicknames*** 😎
 
 ## 🚀 Languages and Tools:
 
