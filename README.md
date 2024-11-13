@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[WEX INC](https://wexinc.com/)**
+- 🔭 I’m currently working with **[Kunai](https://kunaico.com/)**
 
 - 👨‍💻 I enjoy exploring algorithms,design patterns,solid principles and scalable system design. You can find my write-ups **[here](https://www.linkedin.com/in/ayuba-dauda/)**  
 
